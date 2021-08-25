@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharon-siekay" alt="sharon-siekay" /></a> </p>
 
-- 🔭 I’m currently working on **e-food-website**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/sharon-siekay](https://www.github.com/sharon-siekay)
 
-- 💬 Ask me about **php**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **shrnkemei015@gmail.com**
 

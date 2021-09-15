@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **shrnkemei015@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/sharonchepkoech015/**
 
 - ⚡ Fun fact **I love swimming**
 
